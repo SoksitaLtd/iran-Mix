@@ -57,9 +57,9 @@
       "download": "+50K"
     },
     {
-      "name": "Music RK & Lyrics Offline",
+      "name": "Music France & Lyrics Offline",
       "packageName": "com.Ryad.Kartoum.SoksitaLtd",
-      "icon": "https://play-lh.googleusercontent.com/x-gjCYLoz-wqaEiLbDDO5vNNoKSeimcXvBEp8oOLvPlqRV-ZlApWSziZ61h0E0H3foU=w240-h480-rw",
+      "icon": "https://play-lh.googleusercontent.com/wCr1eSDfxRy2GEDE5SZPBVrAX5aKs2l06CMLWd6KxbcVUGtkDcMN29wjrVd-FSN_Cg=w240-h480-rw",
       "download": "+1 Million"
     },
     {
@@ -84,6 +84,24 @@
       "name": "Music Aya Nakamura Offline",
       "packageName": "com.Nakamura.Aya.SoksitaLtd",
       "icon": "https://play-lh.googleusercontent.com/oJUA8aS39NaGMqkk8lVVTptImKVxCH3pEdpfdwCx-Ty9Kc5j7dRmSvSeGTLl2UAdHRb5=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Celine Dion & Lyrics",
+      "packageName": "com.Hiraad.Hamid.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/_428d_bD76qQOj_MLGXskd4oCgK_I_IkQOMldEHtNp9iFkhEvrHvk4GxejDW9nXrjdo=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Shakira & Lyrics Offline",
+      "packageName": "com.Forster.Mark.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/UgsrUSkax8XjgrMKri_GhI2ysf7cfn7tx5VGhXNTzbdE19x-l8U6WqdJahEXsQg0Rg=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Bob Marley & lyrics",
+      "packageName": "com.Oraganise.Treize.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/n5xGydEZtuXp0_tuQ0tkNMcURyM-no4pJoizvcQd85o39zVeslz447WA5TEpyx3kGw0=w240-h480-rw",
       "download": "+500 Million"
     },
     {
@@ -135,9 +153,9 @@
       "download": "+100K"
     },
     {
-      "name": "Music Wejdene & lyrics offline",
+      "name": "Music Rihanna & lyrics offline",
       "packageName": "com.AlloCoCo.Wejdene.SoksitaLtd",
-      "icon": "https://play-lh.googleusercontent.com/u9I5bIGwCXIhfB2-sVItmoBVrrxyVmpvyWT_MyE2uKTXLqc6EQtW5IfMLSn4cdFjP8Y=w240-h480-rw",
+      "icon": "https://play-lh.googleusercontent.com/7B2X2jLBpjQp6EUu8t7fScLyPKb8yQ-IF88wiAUBR7j_1k82raJZiNo1Yh1zYM3ysw=w240-h480-rw",
       "download": "+1 Million"
     },
     {
@@ -235,12 +253,6 @@
       "packageName": "com.Afshar.Aron.SoksitaLtd",
       "icon": "https://play-lh.googleusercontent.com/PeRSDCtSHNgI2FBKdlJfr45k6k3xrK1fds9HpLQ-vohI5py5n-HiW5OSqIAmAzqnVw=w240-h480-rw",
       "download": "+100K"
-    },
-    {
-      "name": "آهنكـ های حمید هیراد آفلاین",
-      "packageName": "com.Hiraad.Hamid.SoksitaLtd",
-      "icon": "https://play-lh.googleusercontent.com/5mm9AVBSXJEWz-CfTBDKHMihui-epBbx_DolLClQEeOt20i-GObyIc8Wcz5t18VFnQ=w240-h480-rw",
-      "download": "+1 Million"
     },
     {
       "name": "آهنكـ های مهدی احمدوند آفلاین",
